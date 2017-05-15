@@ -1,0 +1,32 @@
+{
+  "name": "running-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-jaql.test.js",
+  "dependencies": {
+    "babel-jest": "^20.0.0",
+    "jest": "^20.0.0",
+    "regenerator-runtime": "^0.10.5"
+  },
+  "devDependencies": {
+    "babel-jest": "^20.0.0",
+    "regenerator-runtime": "^0.10.5",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orelse94/running-sum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orelse94/running-sum/issues"
+  },
+  "homepage": "https://github.com/orelse94/running-sum#readme",
+  "jest":{
+    "testEnvironment":"node"
+  }
+}
